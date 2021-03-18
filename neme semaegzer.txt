@@ -4,3 +4,4 @@ id 1300
 year 2013
 section B
 semister 1
+git vcs
