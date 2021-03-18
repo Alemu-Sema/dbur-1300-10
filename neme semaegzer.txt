@@ -1,7 +1,7 @@
 first name semaegzer 
-alst name alemu
+last name alemu
 id 1300
 year 2013
 section B
-semister 1
+semister 1 year4
 git is vcs
